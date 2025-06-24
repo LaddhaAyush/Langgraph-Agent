@@ -1,0 +1,11 @@
+fastapi
+pydantic
+langchain
+langchain-community
+langgraph
+langchain-groq
+uvicorn
+streamlit
+arxiv
+duckduckgo-search
+
